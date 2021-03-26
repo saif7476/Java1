@@ -5,6 +5,7 @@ public class Practice {
 		
 		System.out.println("Hello");
 		System.out.println("Hi"); //hi
+		// don't do that again
 	}
 
 }
